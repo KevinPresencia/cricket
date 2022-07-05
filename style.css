@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@1,200&family=Merriweather:wght@300&family=Montserrat:ital,wght@1,100&family=Nunito+Sans:ital,wght@1,200&family=Nunito:ital,wght@1,200&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: linear-gradient(to right, #84cdf5,#cbf5ee);
+    margin: 50px 0 0 50px;
+    text-align: center;
+    align-content: center;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+}
+table,td{
+    border: 5px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin-left: 400px;
+    margin-top: 50px;
+    font-size: 1.5em;
+}
+h1{
+    font-size: 4em;
+    background: -webkit-linear-gradient(#373a40,#646c7d);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;     
+}
+h2{
+    text-align: center; 
+    font-size: 3em;  
+}
+#heading3{
+    padding: 20px;
+}
+
